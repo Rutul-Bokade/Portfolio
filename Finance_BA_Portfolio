@@ -1,7 +1,3 @@
-Finance_BA_Portfolio/
-│── README.md                  # Portfolio overview  
-│── SQL_Projects/              # SQL scripts & database analysis  
-│── Data_Analysis/             # Python/R financial analysis  
-│── Dashboard_Visualizations/  # Power BI, Tableau, or Python dashboards  
-│── Documentation/             # BRDs, workflows, and business analysis  
-│── Case_Studies/              # Real-world financial problem analysis  
+git add .
+git commit -m "Initial folder structure"
+git push origin main
